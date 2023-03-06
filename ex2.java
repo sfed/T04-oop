@@ -40,7 +40,7 @@ class Voiture {
         return marque + " " + modele + " (" + annee + "), " + prix + " €, " + kilometrage + " km";
     }
 }
-class Main {
+class ex2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Voiture> listeVoitures = new ArrayList<Voiture>();

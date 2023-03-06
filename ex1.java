@@ -82,7 +82,7 @@ class Panier {
     }
 }
 
-class Main {
+class ex1 {
   
   public static void main(String[] args) {
     // Création d'un objet Panier
